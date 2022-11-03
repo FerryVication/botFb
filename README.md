@@ -15,7 +15,6 @@
 [Click Here](https://f-droid.org/repo/com.termux_118.apk)👈
 ## Cara Install Script
 ```bash
-$ pkg update && pkg upgrade
 $ pkg install python git
 $ pip install requests mechanize
 $ pip install rich bs4

@@ -32,7 +32,7 @@ $ pip install gtts
 $ git clone https://github.com/CyberCarboon2/botFB
 $ ls
 $ cd botFB
-$ python bot.py
+$ python3 bot.py
 ```
 ## Cara Untuk Update 
 ```php
@@ -40,7 +40,7 @@ $ cd
 $ cd botFB
 $ ls
 $ git pull
-$ python bot.py
+$ python3 bot.py
 ```
 ## Kunjungan Profil
 <br><p align='center'><img src="https://komarev.com/ghpvc/?username=CyberCarboon2&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="CyberCarboon" />

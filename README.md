@@ -36,6 +36,12 @@ $ ls
 $ cd botFB
 $ python3 bot.py
 ```
+
+## Atau Gunakan Perintah Tunggal ini
+```php
+git clone https://github.com/CyberCarboon2/botFB cd botFB python3 bot.py
+```
+
 ## Cara Untuk Update 
 ```php
 $ cd

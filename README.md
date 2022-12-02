@@ -23,12 +23,10 @@
 $ pkg install python git
 $ pip install requests mechanize
 $ pip install rich bs4
-$ pip install stdiomask
 $ pip install --upgrade pip
 $ pip install pytube
 $ pip install pyqrcode
 $ pkg install play-audio
-$ pip install pyshorteners
 $ pip install gdown
 $ pip install requests
 $ pip install gtts

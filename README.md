@@ -2,7 +2,7 @@
   Made with  by <a href="https://github.com/CyberCarboon2">Feri Pratama</a>
 </p>
 <p align="center">
- <b>Last updated on 7 November 2022 to version 3.6.5</b>
+ <b>Last updated on 7 Desember 2022 to version 3.6.5</b>
 
 
 ### Menu Bot Facebook

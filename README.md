@@ -2,7 +2,7 @@
   Made with  by <a href="https://github.com/CyberCarboon2">Feri Pratama</a>
 </p>
 <p align="center">
- <b>Last updated on 7 Desember 2022 to version 3.6.5</b>
+ <b>Last updated on 15 Desember 2022 to version 3.7.5</b>
 
 
 ### Menu Bot Facebook
@@ -21,14 +21,13 @@
 ## Cara Install Script
 ```bash
 $ pkg install python git
-$ pip install requests mechanize
+$ pip install requests
 $ pip install rich bs4
 $ pip install --upgrade pip
 $ pip install pytube
 $ pip install pyqrcode
 $ pkg install play-audio
 $ pip install gdown
-$ pip install requests
 $ pip install gtts
 $ git clone https://github.com/CyberCarboon2/botFB
 $ ls
@@ -38,7 +37,7 @@ $ python3 bot.py
 
 ## Atau Gunakan Perintah Tunggal ini
 ```php
-git clone https://github.com/CyberCarboon2/botFB cd botFB python3 bot.py
+git clone https://github.com/CyberCarboon2/botFB && cd botFB && python3 bot.py
 ```
 
 ## Cara Untuk Update 

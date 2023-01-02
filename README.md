@@ -2,7 +2,7 @@
   Made with  by <a href="https://github.com/CyberCarboon2">Feri Pratama</a>
 </p>
 <p align="center">
- <b>Last updated on 15 Desember 2022 to version 3.7.5</b>
+ <b>Last updated on 2 Januari 2023 to version 3.8.5</b>
 
 
 ### Menu Bot Facebook
@@ -32,7 +32,7 @@ $ pip install gtts
 $ git clone https://github.com/CyberCarboon2/botFB
 $ ls
 $ cd botFB
-$ python3 bot.py
+$ python3 Run.py
 ```
 
 ## Atau Gunakan Perintah Tunggal ini
@@ -46,7 +46,7 @@ $ cd
 $ cd botFB
 $ ls
 $ git pull
-$ python3 bot.py
+$ python3 Run.py
 ```
 ## Kunjungan Profil
 <br><p align='center'><img src="https://komarev.com/ghpvc/?username=CyberCarboon2&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="CyberCarboon" />

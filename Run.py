@@ -46,7 +46,7 @@ import os,sys
 import Feri
 
 def __feri__():
-	Feri.false()
+	Feri.Run()
 	
 if __name__=="__main__":
 	__feri__()

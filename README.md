@@ -19,7 +19,7 @@
 ## Link Download Termux
 [Click Here](https://f-droid.org/repo/com.termux_118.apk)👈
 ## Cara Install Script
-```bash
+```ruby
 $ pkg install python git
 $ pip install requests
 $ pip install rich bs4
@@ -32,12 +32,12 @@ $ pip install gtts
 $ git clone https://github.com/CyberCarboon2/botFB
 $ ls
 $ cd botFB
-$ python main.py
+$ python Run.py
 ```
 
 ## Atau Gunakan Perintah Tunggal ini
 ```php
-git clone https://github.com/CyberCarboon2/botFB && cd botFB && python3 bot.py
+git clone https://github.com/CyberCarboon2/botFB && cd botFB && python3 Run.py
 ```
 
 ## Cara Untuk Update 
@@ -46,7 +46,7 @@ $ cd
 $ cd botFB
 $ ls
 $ git pull
-$ python main.py
+$ python Run.py
 ```
 ## Kunjungan Profil
 <br><p align='center'><img src="https://komarev.com/ghpvc/?username=CyberCarboon2&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="CyberCarboon" />

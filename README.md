@@ -43,6 +43,8 @@ git clone https://github.com/CyberCarboon2/botFB && cd botFB && python3 Run.py
 ## Cara Untuk Update 
 ```php
 $ cd
+$ rm -rf botFB
+$ git clone Https://github.com/CyberCarboon2/botFB
 $ cd botFB
 $ ls
 $ git pull
